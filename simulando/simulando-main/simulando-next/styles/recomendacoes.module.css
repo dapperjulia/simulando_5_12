@@ -1,0 +1,13 @@
+.titulorecomendacoes{
+    color: rgba(1, 60, 139, 0.96);
+    font-family: 'Anton', 'sans-serif';
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.link:visited{
+    color: black;
+}

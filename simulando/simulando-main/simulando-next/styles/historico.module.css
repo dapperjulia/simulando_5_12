@@ -1,0 +1,17 @@
+.container{
+    background-color: white;
+    padding: 40px;
+    top: 0px;
+    border-radius: 10px;
+}
+.row{
+    padding:20px;
+}
+.navlink {
+    background-color: #e4e3e3; /* Cor de fundo para guias não selecionadas */
+    color: #7d6969; /* Cor do texto para guias não selecionadas */
+    border-color: #ffffff; /* Cor da borda para guias não selecionadas (se desejar) */
+    border-style: solid; /* Estilo da borda para guias não selecionadas (se desejar) */
+    border-width: 1px; /* Largura da borda para guias não selecionadas (se desejar) */
+    
+}
